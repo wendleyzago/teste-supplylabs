@@ -12,3 +12,11 @@
 ![imagem-lista](https://user-images.githubusercontent.com/10118295/208160943-be01ccfb-d9ee-41b3-be2e-4239918c54d1.png)
 
 </div>
+
+<h2 align="center">Filtragem por ID e Idade</h2>
+<div align="center">
+
+![imagem-lista](https://user-images.githubusercontent.com/10118295/208160943-be01ccfb-d9ee-41b3-be2e-4239918c54d1.png)
+
+</div>
+
