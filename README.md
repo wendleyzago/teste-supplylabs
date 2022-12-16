@@ -27,4 +27,12 @@
 
 </div>
 
+<h2 align="center">Detalhes individuais de cada usuário</h2>
+<div align="center">
+
+![mais-detalhes](https://user-images.githubusercontent.com/10118295/208163419-04789777-75d7-4bb1-9e7f-20472844ea32.png)
+
+</div>
+
+
 
