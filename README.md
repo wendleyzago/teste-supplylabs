@@ -16,7 +16,7 @@
 <h2 align="center">Filtragem por ID e Idade</h2>
 <div align="center">
 
-![imagem-lista](https://https://user-images.githubusercontent.com/10118295/208162026-c8f7c688-175c-481c-acd5-2404e976d5cd.png)
+![filtragem](https://user-images.githubusercontent.com/10118295/208162527-5e3666ce-0808-46f6-b984-ca00a296f69b.png)
 
 </div>
 
